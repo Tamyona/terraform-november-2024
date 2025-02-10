@@ -43,4 +43,4 @@ oregon-d:
 
 apply-all: virginia ohio oregon california
 
-destrou-all: virginia-d ohio-d oregon-d california-d
+destroy-all: virginia-d ohio-d oregon-d california-d
